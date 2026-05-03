@@ -226,3 +226,4 @@ InitTestScene*.unity*
 
 # debug information files
 *.dwo
+\.~lock.*
