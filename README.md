@@ -1,4 +1,6 @@
 # Advanced Rendering
+[Git wiki ->](https://github.com/DeGekkeLamas/AdvRendering/wiki)
+
 This project implements the boids algorithm inside a basic engine made with OpenGL in C++. The boids are implemented using compute shaders, but also have an iterative implementation to test against. 
 
 ## How to use
